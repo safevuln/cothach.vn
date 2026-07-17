@@ -14,6 +14,7 @@
     {
       "binding": "DB",
       "database_name": "co-thach-travel-guide-db",
+      "database_id": "793809ae-a50a-43d6-9f4a-3adc52462417",
       "migrations_dir": "drizzle"
     }
   ],
